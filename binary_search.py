@@ -1,4 +1,4 @@
-# BinarySearch
+# Binary Search
 # Standard binary search algorithm, (Divide and Conquer)
 def binary_search(self, nums: List[int], target: int) -> int:
     lo = 0
